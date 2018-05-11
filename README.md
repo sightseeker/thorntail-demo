@@ -1,6 +1,11 @@
 Thorntail Demo
 ===
 
+## Prerequirements
+
+make sure you have added the following repository to your settings.xml:  https://oss.sonatype.org/content/repositories/snapshots
+
+
 ## Hot Reload Example Commands
 
 Execute commands on Terminal A
